@@ -26,7 +26,7 @@ Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que un
 
 - 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
 - 💻 Foco em **Desenvolvimento Front-End**
-- 🌱 Aprendendo **HTML, CSS, JavaScript e C**
+- 🌱 Aprendendo **HTML5, CSS, JavaScript, Java e C#**
 - 🚀 Objetivo: contribuir em projetos reais e crescer como dev
 - 💼 **Aberto ao primeiro emprego na área de TI!**
 
