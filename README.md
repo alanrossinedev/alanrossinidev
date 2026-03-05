@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="coding gif"/>
 </div>
 
 ---
@@ -26,7 +26,7 @@ Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que un
 
 - 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
 - 💻 Foco em **Desenvolvimento Front-End**
-- 🌱 Aprendendo **HTML5, CSS, JavaScript, Java e C#**
+- 🌱 Aprendendo **HTML, CSS, JavaScript e C**
 - 🚀 Objetivo: contribuir em projetos reais e crescer como dev
 - 💼 **Aberto ao primeiro emprego na área de TI!**
 
