@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078b3c0e7904b11e4b6b2d9/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="380" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding gif"/>
 </div>
 
 ---
@@ -26,7 +26,7 @@ Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que un
 
 - 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
 - 💻 Foco em **Desenvolvimento Front-End**
-- 🌱 Aprendendo **HTML, CSS, JavaScript e C**
+- 🌱 Aprendendo **HTML5, CSS, JavaScript, Java e C#**
 - 🚀 Objetivo: contribuir em projetos reais e crescer como dev
 - 💼 **Aberto ao primeiro emprego na área de TI!**
 
