@@ -28,9 +28,6 @@ Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que un
 const alan = {
   localização:   "Londrina / PR 🇧🇷",
   formação:      "ADS — Unicesumar",
-  foco:          "Desenvolvimento Front-End",
-  aprendendo:    ["HTML", "CSS", "JavaScript", "C"],
-  objetivo:      "Contribuir em projetos reais e crescer como dev",
   disponível:    true // aberto ao primeiro emprego em TI! 🚀
 };
 ```
