@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47FFE8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Alan!+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Apaixonado+por+UI+%2F+UX;Transformando+ideias+em+interfaces!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=47FFE8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Alan!+%F0%9F%91%8B;Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+interfaces!)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que unem **boa aparência e boa usabilidade**. Escolhi front-end porque acredito que a experiência do usuário começa no visual — e é exatamente aí que quero fazer a diferença.
+Olá! Sou o **Alan**, estudante de TI focado em construir interfaces que unem **boa aparência e boa usabilidade**. Escolhi front-end porque acredito que a experiência do usuário começa no visual — e é exatamente aí que quero fazer a diferença.
 
 - 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
 - 💻 Foco em **Desenvolvimento Front-End**
