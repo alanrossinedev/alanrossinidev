@@ -24,13 +24,11 @@
 
 Olá! Sou o **Alan**, estudante de TI apaixonado por construir interfaces que unem **boa aparência e boa usabilidade**. Escolhi front-end porque acredito que a experiência do usuário começa no visual — e é exatamente aí que quero fazer a diferença.
 
-```javascript
-const alan = {
-  localização:   "Londrina / PR 🇧🇷",
-  formação:      "ADS — Unicesumar",
-  disponível:    true // aberto ao primeiro emprego em TI! 🚀
-};
-```
+- 🎓 Cursando **ADS** na Unicesumar — Londrina/PR
+- 💻 Foco em **Desenvolvimento Front-End**
+- 🌱 Aprendendo **HTML, CSS, JavaScript e C**
+- 🚀 Objetivo: contribuir em projetos reais e crescer como dev
+- 💼 **Aberto ao primeiro emprego na área de TI!**
 
 ---
 
